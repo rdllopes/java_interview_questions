@@ -1,0 +1,8 @@
+sapato marrom : calçados
+vestido curto : vestidos
+calça verde : calça
+cinto : acessorios
+brinco : acessorios
+blusa branca : blusa
+blusa preta : blusa
+piranha de cabelo : acessorios
